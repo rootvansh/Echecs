@@ -1,5 +1,5 @@
 # Échecs
-This is the official Échecs website's source code,<br>
+This is the official <a href="https://echecs.ga/">Échecs</a> website's source code,<br>
 It was developed for Summer Fields School.<br>
 Copyright 2021 Échecs. All rights reserved.
 # Usage
