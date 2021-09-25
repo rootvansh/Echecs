@@ -12,6 +12,6 @@ This website's frontend is mainly written in HTML, CSS and JS<br>
 We're also using bootstarp 5 for the frontend<br>
 And for backend we use node.js which is running on a linux server.
 # Developer
-This website was made by <strong>Vansh Choudhary.</strong><br>
+This website was developed by <strong>Vansh Choudhary.</strong><br>
 Summer Fields School is the rightful owner of Échecs's complete source code and images,<br>
 Permission should be taken directly from Summer Fields School before editing/changing/updating anything in the Échecs website.
